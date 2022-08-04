@@ -57,22 +57,23 @@ The data is available in the dataset session along with Jupyter Notebooks.
 ***
 ## 4. TOP 3 DATA INSIGHTS
 
-** Top 01:** Schools with the lowest per-student spending range had the highest overall pass rate.
+
+**Top 01:** Schools with the lowest per-student spending range had the highest overall pass rate.
 
 <div align="center">
 <p float="left">
-    <img src="/images/top_1.png" width="700" height="400"/>
+    <img src="/images/top_1.png" width="500" height="250"/>
 </p>
 </div>
 
-** Top 02:** Small schools had the best averages
+**Top 02:** Small schools had the best averages
 
 
-** Top 03:** Large schools had the worst averages
+**Top 03:** Large schools had the worst averages
 
 <div align="center">
 <p float="left">
-    <img src="/images/top_2.png" width="700" height="400"/>
+    <img src="/images/top_2.png" width="500" height="250"/>
 </p>
 </div>
 ***
@@ -81,7 +82,9 @@ The data is available in the dataset session along with Jupyter Notebooks.
     <img src="/images/dash.png" width="700" height="400"/>
 </p>
 </div>
+
 ***
+
 Made By **Camila D'Angelo**
 
 - 🔭 I’m currently working on [DS Comuity](https://www.comunidadedatascience.com/) and [Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados)
