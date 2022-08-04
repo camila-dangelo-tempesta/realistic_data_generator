@@ -27,7 +27,6 @@ Python, the Pandas:
 5. Which type of school (public or private) has the highest approval rate?
 
 The case study also has a complete data analysis applied to problem solving.
-
  
 ***
 ## 2. BUSINESS ASSUMPTIONS
@@ -38,5 +37,55 @@ The data was generated from the [Realistic Data Generator](https://www.mockaroo.
 
 The data is available in the dataset session along with Jupyter Notebooks.
 
+***
+## 3. SOLUTION PLANNING
+
+- [x] **Step 01:** **Pre-Processing**:
+
+	* Formatting
+	* Cleaning
+	* Sampling
+	
+- [x] **Step 02:** **Transformation**:
+
+	* Scale
+	* Decomposition
+	* Aggregation
+
+- [x] **Step 03:** **Exploratory Data Analysis**:
+
+***
+## 4. TOP 3 DATA INSIGHTS
+
+** Top 01:** Schools with the lowest per-student spending range had the highest overall pass rate.
+
+<div align="center">
+<p float="left">
+    <img src="/images/top_1.png" width="700" height="400"/>
+</p>
+</div>
+
+** Top 02:** Small schools had the best averages
+
+
+** Top 03:** Large schools had the worst averages
+
+<div align="center">
+<p float="left">
+    <img src="/images/top_2.png" width="700" height="400"/>
+</p>
+</div>
+***
+<div align="center">
+<p float="left">
+    <img src="/images/dash.png" width="700" height="400"/>
+</p>
+</div>
+***
+Made By **Camila D'Angelo**
+
+- 🔭 I’m currently working on [DS Comuity](https://www.comunidadedatascience.com/) and [Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados)
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me:  [LinkeldIn](https://www.linkedin.com/in/camiladangelotempesta/)
 
 ***
