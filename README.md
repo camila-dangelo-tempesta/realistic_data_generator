@@ -9,7 +9,7 @@ Where, in total, 25 business questions will be answered that will require data a
 
 <div align="center">
 <p float="left">
-    <img src="/images/pandas.png" width="1000" height="500"/>
+    <img src="/images/pandas.png" width="750" height="500"/>
 </p>
 </div>
 
