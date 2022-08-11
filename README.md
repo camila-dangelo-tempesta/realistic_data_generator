@@ -62,7 +62,7 @@ The data is available in the dataset session along with Jupyter Notebooks.
 
 <div align="center">
 <p float="left">
-    <img src="/images/top_1.png" width="500" height="250"/>
+    <img src="/images/top_1.png" width="500" height="300"/>
 </p>
 </div>
 
@@ -73,7 +73,7 @@ The data is available in the dataset session along with Jupyter Notebooks.
 
 <div align="center">
 <p float="left">
-    <img src="/images/top_2.png" width="500" height="250"/>
+    <img src="/images/top_2.png" width="500" height="300"/>
 </p>
 </div>
 ***
